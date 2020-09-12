@@ -5,7 +5,7 @@ import yaml
 from api.gettoken import GetToken
 
 
-@pytest.mark.parametrize('env,qid,secret', yaml.safe_load(open('env.yml')))
+@pytest.mark.parametrize('env,qid,secret', yaml.safe_load(open('./env.yml')))
 class TestGettoken:
 
     @allure.story("测试获取token")

@@ -21,13 +21,13 @@ def yaml_data_with_key(file_name, key):
 
 class TestCreate(BaseApi):
     @pytest.fixture()
-    @pytest.mark.parametrize('env,qid,secret', yaml.safe_load(open('env.yml')))
+    @pytest.mark.parametrize('env,qid,secret', yaml.safe_load(open('./env.yml')))
     def token(self, env, qid, secret):
         t = GetToken()
         return t.gettoken(env, qid, secret)
 
     @allure.story("测试create接口")
-    @pytest.mark.parametrize('env,qid,secret', yaml.safe_load(open('env.yml')))
+    @pytest.mark.parametrize('env,qid,secret', yaml.safe_load(open('./env.yml')))
     @pytest.mark.parametrize('memberinfo', yaml_data_with_key('memberinfo', 'user1'))
     def test_create_case1(self, memberinfo,env,token):
         create_api = env+ "/cgi-bin/user/create"

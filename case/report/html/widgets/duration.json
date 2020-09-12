@@ -1,0 +1,51 @@
+[ {
+  "uid" : "93fd6963dbf1b5d8",
+  "name" : "test_create_case1[memberinfo2-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+  "time" : {
+    "start" : 1599872825777,
+    "stop" : 1599872825965,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7ffc84881f344db",
+  "name" : "test_create_case1[memberinfo0-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+  "time" : {
+    "start" : 1599872824864,
+    "stop" : 1599872825089,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f638e7f8891094b",
+  "name" : "test_create_case1[memberinfo3-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+  "time" : {
+    "start" : 1599872826189,
+    "stop" : 1599872826429,
+    "duration" : 240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "333b28309de493b8",
+  "name" : "test_create_case1[memberinfo1-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+  "time" : {
+    "start" : 1599872825313,
+    "stop" : 1599872825533,
+    "duration" : 220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21944153a1718885",
+  "name" : "test_create_case1[memberinfo4-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+  "time" : {
+    "start" : 1599872826701,
+    "stop" : 1599872826904,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

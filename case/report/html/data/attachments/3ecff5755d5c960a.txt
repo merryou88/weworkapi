@@ -1,0 +1,3 @@
+memberinfo
+{'userid': 'wangyi', 'name': '王一', 'alias': 'wangyi', 'mobile': 13612340001, 'department': [1]}
+{'errcode': 60104, 'errmsg': 'Warning: wrong json format. mobile existed:wangyi'}

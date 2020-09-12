@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Sep 12 09:07:05 CST 2020","Sat Sep 12 09:07:05 CST 2020","188","","test_create","TestCreate","","","test_create_case1[memberinfo2-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",""
+"passed","Sat Sep 12 09:07:04 CST 2020","Sat Sep 12 09:07:05 CST 2020","225","","test_create","TestCreate","","","test_create_case1[memberinfo0-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",""
+"passed","Sat Sep 12 09:07:06 CST 2020","Sat Sep 12 09:07:06 CST 2020","240","","test_create","TestCreate","","","test_create_case1[memberinfo3-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",""
+"passed","Sat Sep 12 09:07:05 CST 2020","Sat Sep 12 09:07:05 CST 2020","220","","test_create","TestCreate","","","test_create_case1[memberinfo1-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",""
+"passed","Sat Sep 12 09:07:06 CST 2020","Sat Sep 12 09:07:06 CST 2020","203","","test_create","TestCreate","","","test_create_case1[memberinfo4-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",""

@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_create",
+    "children" : [ {
+      "name" : "test_create_case1[memberinfo0-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+      "uid" : "b7ffc84881f344db",
+      "parentUid" : "24600680be48109f255ea5372fb0c413",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599872824864,
+        "stop" : 1599872825089,
+        "duration" : 225
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'https://qyapi.weixin.qq.com'", "{'userid': 'wangyi', 'name': '王一', 'alias': 'wangyi', 'mobile': 13612340001, 'department': [1]}", "'ww94e8abe4e128dbf4'", "'tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY'" ]
+    }, {
+      "name" : "test_create_case1[memberinfo1-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+      "uid" : "333b28309de493b8",
+      "parentUid" : "24600680be48109f255ea5372fb0c413",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599872825313,
+        "stop" : 1599872825533,
+        "duration" : 220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'https://qyapi.weixin.qq.com'", "{'userid': 'wanger', 'name': '王二', 'alias': 'wanger', 'mobile': 13612340002}", "'ww94e8abe4e128dbf4'", "'tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY'" ]
+    }, {
+      "name" : "test_create_case1[memberinfo2-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+      "uid" : "93fd6963dbf1b5d8",
+      "parentUid" : "24600680be48109f255ea5372fb0c413",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599872825777,
+        "stop" : 1599872825965,
+        "duration" : 188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'https://qyapi.weixin.qq.com'", "{'userid': 'wangyi', 'name': '王一', 'department': [1]}", "'ww94e8abe4e128dbf4'", "'tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY'" ]
+    }, {
+      "name" : "test_create_case1[memberinfo3-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+      "uid" : "4f638e7f8891094b",
+      "parentUid" : "24600680be48109f255ea5372fb0c413",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599872826189,
+        "stop" : 1599872826429,
+        "duration" : 240
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'https://qyapi.weixin.qq.com'", "{'userid': 'wangyi', 'name': '王一', 'mobile': 13612340001, 'department': [1]}", "'ww94e8abe4e128dbf4'", "'tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY'" ]
+    }, {
+      "name" : "test_create_case1[memberinfo4-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+      "uid" : "21944153a1718885",
+      "parentUid" : "24600680be48109f255ea5372fb0c413",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599872826701,
+        "stop" : 1599872826904,
+        "duration" : 203
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'https://qyapi.weixin.qq.com'", "{'name': '王一', 'alias': 'wangyi', 'mobile': 13612340001, 'department': [1]}", "'ww94e8abe4e128dbf4'", "'tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY'" ]
+    } ],
+    "uid" : "24600680be48109f255ea5372fb0c413"
+  } ]
+}

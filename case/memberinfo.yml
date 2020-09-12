@@ -1,0 +1,26 @@
+user1:
+  -
+    userid: wangyi
+    name: 王一
+    alias: wangyi
+    mobile: 13612340001
+    department: [1]
+  -
+    userid: wanger
+    name: 王二
+    alias: wanger
+    mobile: 13612340002
+  -
+    userid: wangyi
+    name: 王一
+    department: [1]
+  -
+    userid: wangyi
+    name: 王一
+    mobile: 13612340001
+    department: [1]
+  -
+    name: 王一
+    alias: wangyi
+    mobile: 13612340001
+    department: [1]

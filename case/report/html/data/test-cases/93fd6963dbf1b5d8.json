@@ -1,0 +1,99 @@
+{
+  "uid" : "93fd6963dbf1b5d8",
+  "name" : "test_create_case1[memberinfo2-https://qyapi.weixin.qq.com-ww94e8abe4e128dbf4-tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY]",
+  "fullName" : "test_create.TestCreate#test_create_case1",
+  "historyId" : "fd85561549b81123bd8b938721e830a5",
+  "time" : {
+    "start" : 1599872825777,
+    "stop" : 1599872825965,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "添加成员",
+      "time" : {
+        "start" : 1599872825777,
+        "stop" : 1599872825965,
+        "duration" : 188
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "58558d7fad4ad4eb",
+      "name" : "stdout",
+      "source" : "58558d7fad4ad4eb.txt",
+      "type" : "text/plain",
+      "size" : 273
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试create接口"
+  }, {
+    "name" : "suite",
+    "value" : "test_create"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCreate"
+  }, {
+    "name" : "host",
+    "value" : "ouyanxiadeMBP.lan"
+  }, {
+    "name" : "thread",
+    "value" : "19387-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_create"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "env",
+    "value" : "'https://qyapi.weixin.qq.com'"
+  }, {
+    "name" : "memberinfo",
+    "value" : "{'userid': 'wangyi', 'name': '王一', 'department': [1]}"
+  }, {
+    "name" : "qid",
+    "value" : "'ww94e8abe4e128dbf4'"
+  }, {
+    "name" : "secret",
+    "value" : "'tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93fd6963dbf1b5d8.json",
+  "parameterValues" : [ "'https://qyapi.weixin.qq.com'", "{'userid': 'wangyi', 'name': '王一', 'department': [1]}", "'ww94e8abe4e128dbf4'", "'tKgyaiLrU38-UwQV-IfkUsDSkybkeLB3VzSTaUR5MVY'" ]
+}

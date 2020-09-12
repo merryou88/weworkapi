@@ -1,0 +1,3 @@
+memberinfo
+{'userid': 'wanger', 'name': '王二', 'alias': 'wanger', 'mobile': 13612340002}
+{'errcode': 40066, 'errmsg': 'Warning: wrong json format. invalid party list, hint: [1599872825_52_cae43a3edec1787fc9e4edb17b9cee0d], from ip: 117.147.9.249, more info at https://open.work.weixin.qq.com/devtool/query?e=40066'}
